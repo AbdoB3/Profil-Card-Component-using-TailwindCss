@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Profil-Card-Component-using-TailwindCss/static/css/main.1d4cf5ba.css",
+    "main.js": "/Profil-Card-Component-using-TailwindCss/static/js/main.3b2e2421.js",
+    "index.html": "/Profil-Card-Component-using-TailwindCss/index.html",
+    "main.1d4cf5ba.css.map": "/Profil-Card-Component-using-TailwindCss/static/css/main.1d4cf5ba.css.map",
+    "main.3b2e2421.js.map": "/Profil-Card-Component-using-TailwindCss/static/js/main.3b2e2421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4cf5ba.css",
+    "static/js/main.3b2e2421.js"
+  ]
+}
