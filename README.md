@@ -1,4 +1,3 @@
-# Profile Card Component using Tailwind CSS
 
 ![Card Component](./public/images/image.jpg)
 
