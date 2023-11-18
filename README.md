@@ -1,6 +1,6 @@
 # Profile Card Component using Tailwind CSS
 
-![Card Component](./images/image.jpg)
+![Card Component](./public/images/image.jpg)
 
 ## Overview
 
