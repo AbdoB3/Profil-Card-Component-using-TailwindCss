@@ -1,8 +1,15 @@
+
 function App() {
   return (
-   
     
-    <div className="App  flex justify-center items-center h-screen bg-cyan-600 " >
+    <div className="App flex justify-center items-center h-screen bg-cyan bg-no-repeat"
+    
+    style={{
+      backgroundImage: "url({'./images/bg-pattern-top.svg'}), url({'./images/bg-pattern-bottom.svg'})",
+      backgroundPosition: 'right 52vw bottom 35vh, left 48vw top 52vh',
+    }}
+    
+    >
     <div className=" max-w-sm rounded-xl overflow-hidden shadow-xl ">
     
       <div className="card bg-white">

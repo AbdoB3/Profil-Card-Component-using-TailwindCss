@@ -8,6 +8,9 @@ module.exports = {
       container:{
         center:true,
       },
+      colors: {
+        cyan: 'hsl(185, 75%, 39%)',
+      },
       
     },
   },
